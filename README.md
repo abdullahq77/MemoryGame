@@ -21,7 +21,7 @@
   • createElement()
   
   
-### Site is available at [https://abdullahq77.github.io/MemoryGame/](https://abdullahq77.github.io/MemoryGame/)
+### Play the game at [https://abdullahq77.github.io/MemoryGame/](https://abdullahq77.github.io/MemoryGame/)
   
   
 #### Attributions
