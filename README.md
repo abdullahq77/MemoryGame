@@ -19,7 +19,12 @@
   • For loops
   
   • createElement()
-
+  
+  
+### Site is available at abdullahq77.github.io
+  
+  
+#### Attributions
 
 [I used this GIMP plugin for resizing multiple images](https://www.thewindowsclub.com/how-to-batch-resize-images-with-gimp-in-windows-10)
 
